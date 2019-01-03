@@ -1,0 +1,23 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('background.jpeg');
+}
+
+.offer {
+    background-color: #EBEBEB;
+    padding: 5%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.offer a {
+    margin-top: 10px;
+}
+
+.offer div {
+    padding: 15px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.offer div:last-child {
+    border: 0;
+}
