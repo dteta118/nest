@@ -1,0 +1,18 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('bg.jpg');
+}
+.content {
+    background-color:#21424c ;
+    font-size: 20px;
+    color: white;
+    margin: 2%;
+    padding: 2%;
+}
+.border{
+	display: block;
+	margin:auto;
+	width: 160px;
+	height: 3px;
+	background: #3489db;
+	margin-bottom: 40px;
+}
